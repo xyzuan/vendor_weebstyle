@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.xyz.wellbeingtinticon">
+    <overlay
+        android:isStatic="true"
+        android:priority="1"
+        android:targetPackage="com.google.android.apps.wellbeing" />
+</manifest>
